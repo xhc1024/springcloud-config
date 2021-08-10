@@ -1,2 +1,2 @@
-test:
-  - can you get me?
+config:
+  info: "master branch,springcloud-config/config-dev.yaml version=1"
